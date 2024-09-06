@@ -1,0 +1,311 @@
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.config
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.pdb
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csprojAssemblyReference.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.MainMenuForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Properties.Resources.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.GenerateResource.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.pdb
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.BeginAssignmentForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.RubricForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.StudyHoursForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityAForm.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.config
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.pdb
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csprojAssemblyReference.cache
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityAForm.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityBForm.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityCForm.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.BeginAssignmentForm.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionForm.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.MainMenuForm.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Properties.Resources.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.RubricForm.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.StudyHoursForm.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.GenerateResource.cache
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CoreCompileInputs.cache
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.pdb
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.WeeklyTimetableForm.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.GoalsSettingMenuForm.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.manifest
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.application
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe.manifest
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.application
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\DatabaseTM.mdf
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\DatabaseTM_log.ldf
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityBForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityCForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Form1.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.GoalsSettingMenuForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.WeeklyTimetableForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\DatabaseTM.mdf
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\DatabaseTM_log.ldf
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.application
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.Rmo.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.application
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CopyComplete
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Form1.resources
+S:\CTL_UFS101_TEAM\Portfolio - Research\Apps_Development\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CopyComplete
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.config
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.application
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.pdb
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csprojAssemblyReference.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityAForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityBForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityCForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.BeginAssignmentForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.MainMenuForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Properties.Resources.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.StudyHoursForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.WeeklyTimetableForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.GenerateResource.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.application
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CopyComplete
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.pdb
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionsForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\DatabaseTM.mdf
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\DatabaseTM_log.ldf
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.config
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.application
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.pdb
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csprojAssemblyReference.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityAForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityBForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityCForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.BeginAssignmentForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionsForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.GoalsSettingMenuForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.MainMenuForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Properties.Resources.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.RubricForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.StudyHoursForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.WeeklyTimetableForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.GenerateResource.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.application
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CopyComplete
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.pdb
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csprojAssemblyReference.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityAForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityBForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityCForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.BeginAssignmentForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionsForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.MainMenuForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Properties.Resources.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.StudyHoursForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.WeeklyTimetableForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.GenerateResource.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.pdb
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.config
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.application
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.pdb
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.Rmo.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.SummaryForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.application
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 08_12_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CopyComplete
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.config
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.application
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.pdb
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csprojAssemblyReference.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityAForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityBForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityCForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.BeginAssignmentForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionsForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.SummaryForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.MainMenuForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Properties.Resources.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.StudyHoursForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.WeeklyTimetableForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.GenerateResource.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.application
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CopyComplete
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 16_30_10_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.pdb
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.config
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.application
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.pdb
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csprojAssemblyReference.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityAForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityBForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityCForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.BeginAssignmentForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionsForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.SummaryForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.MainMenuForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Properties.Resources.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.StudyHoursForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.WeeklyTimetableForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.GenerateResource.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.application
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CopyComplete
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe
+C:\Users\Combrinkhm.KOVSIES\Desktop\LatestTMApp 10_25_13_01_2020\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.pdb
+C:\Users\Combrinkhm.KOVSIES\Desktop\2020 Work\TimeManagementAssignment\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.SummaryForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.config
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.application
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.pdb
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.Rmo.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csprojAssemblyReference.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityAForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityBForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityCForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.BeginAssignmentForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionsForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.SummaryForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.MainMenuForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Properties.Resources.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.StudyHoursForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.WeeklyTimetableForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.GenerateResource.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.application
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CopyComplete
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.pdb
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_15\TimeManagementAssignment\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.config
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.application
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.pdb
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.Rmo.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csprojAssemblyReference.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityAForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityBForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityCForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ModulesForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionsForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.SummaryForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.MainMenuForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Properties.Resources.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.StudyHoursForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.WeeklyTimetableForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.GenerateResource.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.application
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CopyComplete
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_17\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.pdb
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.config
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.application
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.pdb
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.Rmo.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csprojAssemblyReference.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityAForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityBForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityCForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ModulesForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionsForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.SummaryForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.MainMenuForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Properties.Resources.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.StudyHoursForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.WeeklyTimetableForm.resources
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.GenerateResource.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.application
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CopyComplete
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe
+C:\Users\chomaml\Documents\WORK\WORK_PROGRAMMING\C#\LatestTMApp 2020_01_21\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.pdb
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.config
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.application
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.pdb
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csprojAssemblyReference.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityAForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityBForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityCForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ModulesForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionsForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.SummaryForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.MainMenuForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Properties.Resources.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.StudyHoursForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.WeeklyTimetableForm.resources
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.GenerateResource.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.application
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CopyComplete
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe
+C:\Users\Combrinkhm.KOVSIES\Desktop\Final TM app\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.pdb
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.config
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.application
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.exe
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\TimeManagementAssignment.pdb
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.Rmo.dll
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csprojAssemblyReference.cache
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityAForm.resources
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityBForm.resources
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ActivityCForm.resources
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.ModulesForm.resources
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.InstructionsForm.resources
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.SummaryForm.resources
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.MainMenuForm.resources
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.Properties.Resources.resources
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.StudyHoursForm.resources
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.WeeklyTimetableForm.resources
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.GenerateResource.cache
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe.manifest
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.application
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.csproj.CopyComplete
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.exe
+C:\Users\chomaml\Documents\WORK\2020 UFSS\Apps_Development\Final TM App Backup\LatestTMApp 2020_01_21 16h30\TimeManagementAssignment\obj\Debug\TimeManagementAssignment.pdb
